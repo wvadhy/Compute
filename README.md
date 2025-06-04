@@ -1,4 +1,5 @@
 
+![logoLight](https://github.com/user-attachments/assets/d779d262-63a1-4e12-aef7-a86edcd6cbef)
 
 # Compute
 
