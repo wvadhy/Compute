@@ -8,7 +8,7 @@
 
 <p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/derto42/FlowBuddy/blob/main/LICENSE">
+  <a href="https://github.com/wvadhy/Compute/blob/main/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg"/>
   </a>
   <img src="https://img.shields.io/website-up-down-green-red/http/fluentlenium.io.svg">
@@ -51,3 +51,5 @@ The app can now be run directly from the user’s machine, a simulator will be u
 ### UML Diagram
 
 ![alt text](https://cdn.discordapp.com/attachments/728736805913886801/1379739256188305418/Screenshot_2025-03-17_at_12.36.07.png?ex=684155d0&is=68400450&hm=7fe9566f0c1aa093bdf9af353b8f314b7b4b3df3a6f41bbd5f549fa6a9b3a188&)
+
+### 
