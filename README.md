@@ -2,7 +2,9 @@
   <img src="https://github.com/user-attachments/assets/084e9d89-134e-4573-b7f4-1074c4b8dfcd"/>
 </p>
 
-# Compute
+<h1 align="center">
+   Compute
+</h1>
 
 ### Investigating how gamification and LLMs can increase e-learning gratification with the use of a contemporary mobile application
 
