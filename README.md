@@ -1,0 +1,19 @@
+# Compute
+
+### Investigating how gamification and LLMs can increase e-learning gratification with the use of a contemporary mobile application
+
+There are presently over three-hundred thousand apps categorised as educational on the app store today, many of these apps seeing huge growth across the covid pandemic 
+as both younger and older demographics were thrust into the new world of online pedagogy due to school closures. Educational apps commonly aim for an optimised, 
+resource efficient path of academic tuition, one which is commonly obtained by combining attributes of traditional classroom based learning and overt gamification. 
+
+This consists of using simplistic interfaces offered by mobile devices to appropriately present lessons in an easily consumable manner, providing users with instant 
+gratification upon completion of a task to constitute a rewarding engagement cycle. One of the promising technologies to support such efforts is AI. Educational apps are 
+heavily reliant on the utilisation of large language models ( LLM ), to generate personalised experiences based upon contextual references and for the generation of tasks in a more efficient manner. 
+
+However, proper integration and efficient utilisation of LLMs and classroom based learning techniques is not an easy task, many programming based educational apps falling short in this regard. 
+
+This paper discusses my artifact, Compute, and how it can improve e-learning gratification with the use of contemporary LLM and gamification mechanics. Compute is an educational app that provides 
+a less aggressive and more gamified approach to pedagogy, applying more dynamic mechanics present in gamification such as direct interactivity between users. Compute builds upon the robust 
+foundation laid out by its peers, but uses Google’s firstore and continuous iterative learning to further expand on the integration of LLMs for more flexible inclusion into multiple facets of academic instruction. 
+
+This enhances modularity and allows for more productive learning arcs.
