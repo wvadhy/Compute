@@ -1,7 +1,7 @@
 
-![logoLight](https://github.com/user-attachments/assets/d779d262-63a1-4e12-aef7-a86edcd6cbef)
+![logoDark](https://github.com/user-attachments/assets/084e9d89-134e-4573-b7f4-1074c4b8dfcd)
 
-# Compute
+# <center>Compute</center>
 
 ### Investigating how gamification and LLMs can increase e-learning gratification with the use of a contemporary mobile application
 
