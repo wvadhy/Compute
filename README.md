@@ -11,9 +11,7 @@
   <a href="https://github.com/derto42/FlowBuddy/blob/main/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <a href="https://coveralls.io/repos/github/FluentLenium/FluentLenium/badge.svg?branch=develop" target="_blank">
-    <img src="https://coveralls.io/github/FluentLenium/FluentLenium?branch=develop" />
-  </a>
+  <img src="https://img.shields.io/website-up-down-green-red/http/fluentlenium.io.svg">
 </p>
 
 ### Investigating how gamification and LLMs can increase e-learning gratification with the use of a contemporary mobile application
