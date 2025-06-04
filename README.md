@@ -52,4 +52,7 @@ The app can now be run directly from the user’s machine, a simulator will be u
 
 ![alt text](https://cdn.discordapp.com/attachments/728736805913886801/1379739256188305418/Screenshot_2025-03-17_at_12.36.07.png?ex=684155d0&is=68400450&hm=7fe9566f0c1aa093bdf9af353b8f314b7b4b3df3a6f41bbd5f549fa6a9b3a188&)
 
-### 
+### Pipeline
+
+<img width="764" alt="Screenshot 2025-04-03 at 19 19 06" src="https://github.com/user-attachments/assets/3f956ef2-84f9-468a-a1f5-ad74dd6a9e01" />
+
