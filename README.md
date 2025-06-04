@@ -11,7 +11,7 @@
   <a href="https://github.com/wvadhy/Compute/blob/main/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg"/>
   </a>
-  <img src="https://img.shields.io/website-up-down-green-red/http/fluentlenium.io.svg">
+  <img src="https://img.shields.io/website-up-down-green-red/http/computex.cloud">
 </p>
 
 ### Investigating how gamification and LLMs can increase e-learning gratification with the use of a contemporary mobile application
