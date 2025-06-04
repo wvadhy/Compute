@@ -6,9 +6,9 @@
    Compute
 </h1>
 
-<h3 align="center">
+<h4 align="center" style="color:grey;">
    Runner-up project at the Oxford Brookes 2025 Tech Show
-</h3>
+</h4>
 
 <p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
