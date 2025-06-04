@@ -6,6 +6,10 @@
    Compute
 </h1>
 
+<h3 align="center">
+   Runner-up project at the Oxford Brookes 2025 Tech Show
+</h3>
+
 <p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/wvadhy/Compute/blob/main/LICENSE">
@@ -48,11 +52,10 @@ Once the source files have been added to their local machine they can simply ope
 
 The app can now be run directly from the user’s machine, a simulator will be used by default. Alternatively, usage of a physical iOS device can be done with ease. By simply enabling developer mode on the iOS device’s settings, plugging in the device to their machine using a usb-c cable and selecting their iPhone as the build_target, Compute will be installed and run on their iPhone.
 
-### UML Diagram
+### Tech show award winning poster
+![Compute Poster (1)](https://github.com/user-attachments/assets/ffe0f9da-0cfc-4a4e-9095-f519958ab939)
 
-![alt text](https://cdn.discordapp.com/attachments/728736805913886801/1379739256188305418/Screenshot_2025-03-17_at_12.36.07.png?ex=684155d0&is=68400450&hm=7fe9566f0c1aa093bdf9af353b8f314b7b4b3df3a6f41bbd5f549fa6a9b3a188&)
 
-### Pipeline
 
-<img width="764" alt="Screenshot 2025-04-03 at 19 19 06" src="https://github.com/user-attachments/assets/3f956ef2-84f9-468a-a1f5-ad74dd6a9e01" />
+
 
