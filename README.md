@@ -1,5 +1,5 @@
 <p align="center">
-  ![logoDark](https://github.com/user-attachments/assets/084e9d89-134e-4573-b7f4-1074c4b8dfcd)
+  <img src="https://github.com/user-attachments/assets/084e9d89-134e-4573-b7f4-1074c4b8dfcd"/>
 </p>
 
 # Compute
