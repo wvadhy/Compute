@@ -1,3 +1,5 @@
+
+
 # Compute
 
 ### Investigating how gamification and LLMs can increase e-learning gratification with the use of a contemporary mobile application
@@ -17,3 +19,23 @@ a less aggressive and more gamified approach to pedagogy, applying more dynamic 
 foundation laid out by its peers, but uses Google’s firstore and continuous iterative learning to further expand on the integration of LLMs for more flexible inclusion into multiple facets of academic instruction. 
 
 This enhances modularity and allows for more productive learning arcs.
+
+### How to use
+
+Compute has been designed to work on all versions of the iPhone 10 - iPhone 15 ( excluding the SE ). It will ideally be able to function on any iPhone model released after the iPhone 10 as long as they are running iOS 15.0+ and haven’t introduced any new screen elements. 
+
+Any Apple Silicon based macbook will also be able to run Compute natively with minimal issues due to the inherit mobile foundations of the silicon processor.
+
+In terms of performance across iOS devices, Compute was designed in a very resource minimalist way, the app itself is very lightweight and delegates much of the computation to the LLM at the endpoint of a REST api. This means that performance is very fast, even on older iPhone models and versions.
+
+For users wishing to use the LTS build of Compute, they can do so by downloading the app directly off the app store, this will automate the process of notarisation and gatekeeper authentication.
+
+For users looking to use the development build of Compute there are some prerequisites. Firstly, users will require a device running macOS to use Xcode, although alternative methods such as running a VM  do exist, the complexity and error prone nature of these methods means I cannot recommend them.
+
+Once the source files have been added to their local machine they can simply open the `Compute.xcworkspace` file which will automatically launch the project in Xcode. From there users can simply navigate to the bundle_identifier tab in the project settings and change the development team to their own in the format: `com.user.compute`.
+
+The app can now be run directly from the user’s machine, a simulator will be used by default. Alternatively, usage of a physical iOS device can be done with ease. By simply enabling developer mode on the iOS device’s settings, plugging in the device to their machine using a usb-c cable and selecting their iPhone as the build_target, Compute will be installed and run on their iPhone.
+
+### UML Diagram
+
+![alt text](https://cdn.discordapp.com/attachments/728736805913886801/1379739256188305418/Screenshot_2025-03-17_at_12.36.07.png?ex=684155d0&is=68400450&hm=7fe9566f0c1aa093bdf9af353b8f314b7b4b3df3a6f41bbd5f549fa6a9b3a188&)
