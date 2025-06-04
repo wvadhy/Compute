@@ -6,7 +6,7 @@
    Compute
 </h1>
 
-<h4 align="center" style="color:grey;">
+<h4 align="center" style="color:gray;">
    Runner-up project at the Oxford Brookes 2025 Tech Show
 </h4>
 
