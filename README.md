@@ -4,11 +4,12 @@
 
 <h1 align="center">
    Compute
-   <img src="[https://coveralls.io/repos/github/FluentLenium/FluentLenium/badge.svg?branch=develop](https://coveralls.io/github/FluentLenium/FluentLenium?branch=develop)"/>
 </h1>
 
-[![Coveralls](https://coveralls.io/repos/github/FluentLenium/FluentLenium/badge.svg?branch=develop)](https://coveralls.io/github/FluentLenium/FluentLenium?branch=develop)
-[![Website](https://img.shields.io/website-up-down-green-red/http/fluentlenium.io.svg)](https://fluentlenium.io)
+<p align="center">
+  [![Coveralls](https://coveralls.io/repos/github/FluentLenium/FluentLenium/badge.svg?branch=develop)](https://coveralls.io/github/FluentLenium/FluentLenium?branch=develop)
+  [![Website](https://img.shields.io/website-up-down-green-red/http/fluentlenium.io.svg)](https://fluentlenium.io)
+</p>
 
 ### Investigating how gamification and LLMs can increase e-learning gratification with the use of a contemporary mobile application
 
